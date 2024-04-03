@@ -46,7 +46,8 @@ This project analyzes public sentiment on Twitter towards brands, products, or t
 
 ## Challenges
 
-* 
+* Module conflicts: I had some errors due to naming conflicts between my own modules and Python's built-in modules. I had to rename some of my files to avoid these conflicts.
+* Hiding API keys: I think they could be stored more securely than as in a separate untracked file. I will look into this in the future.
 
 ## Project status
 Project is: _in progress_
