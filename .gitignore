@@ -161,3 +161,4 @@ cython_debug/
 
 # File for storing api keys
 /data/secret1.py
+social-media-sentiment-analysis/data/secret1.py
